@@ -1,0 +1,23 @@
+{
+  "name": "RoubeLoader",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "RoubeLoader": {
+        "$className": "Folder",
+        "Chilli": {
+          "$path": "Chilli.lua"
+        },
+        "core": {
+          "$className": "Folder",
+          "$path": "core"
+        },
+        "modules": {
+          "$className": "Folder",
+          "$path": "modules"
+        }
+      }
+    }
+  }
+}
